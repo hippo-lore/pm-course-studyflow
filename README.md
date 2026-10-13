@@ -34,7 +34,6 @@ StudyFlow — це веб-застосунок, призначений для д
 
 ## Артефакти проєкту
 
-* [Project Brief](project-brief.md)
 * [Project Classification & Environment Analysis](project-classification.md)
 * [Project Lifecycle & Phase Gates](project-lifecycle.md)
 
