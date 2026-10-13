@@ -32,7 +32,11 @@ StudyFlow — це веб-застосунок, призначений для д
 
 Детальний опис проєкту знаходиться у файлі:
 
-* [Класифікація проєкту та аналіз оточення](project-classification.md)
+## Артефакти проєкту
+
+* [Project Brief](project-brief.md)
+* [Project Classification & Environment Analysis](project-classification.md)
+* [Project Lifecycle & Phase Gates](project-lifecycle.md)
 
 ## Тип проєкту
 
