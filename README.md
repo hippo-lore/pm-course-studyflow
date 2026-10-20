@@ -13,9 +13,9 @@ StudyFlow — це веб-застосунок, призначений для д
 | --------------- | --------------------------- | ---------------------- |
 | Олеся Ковальчук | Project Manager (Team Lead) |  hippo-lore            |
 | Брек антон      | Product Owner               | Ativernad              |
-| Тіщенко Андрій  | Developer                   | Yurii092               |
+| Тіщенко Андрій  | Developer                   | Andrey828204           |
 | Зимовіна Алєся  | Designer                    | AlesiaZymovina         |
-| Мельник Юра     | Analyst                     | Andrey828204           |
+| Мельник Юра     | Analyst                     | Yurii092               |
 
 
 ## Основні можливості
