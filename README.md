@@ -40,3 +40,5 @@ StudyFlow — це веб-застосунок, призначений для д
 ## Тип проєкту
 
 Навчальний командний проєкт у межах курсу з управління програмними проєктами.
+
+https://andretishch.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline посилання на Jira Roadmap у README проекту
